@@ -1,0 +1,10 @@
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\obj\Debug\ShellSort.csprojAssemblyReference.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\obj\Debug\ShellSort.Form1.resources
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\obj\Debug\ShellSort.Properties.Resources.resources
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.GenerateResource.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+H:\Tec\EstructuraDatos\Programas\Unidad 4\ShellSort\ShellSort\obj\Debug\ShellSort.pdb
